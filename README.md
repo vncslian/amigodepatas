@@ -7,7 +7,7 @@
 ---
 
 ## Sobre o Jogo
-O **Amigo de Patas** é um jogo top-down em pixel art focado na causa social da proteção animal. O jogador deve percorrer o mapa fornecendo petiscos aos animais abandonados para adotá-los, enquanto enfrenta duas ameaças simbólicas:
+O **Amigo de Patas** é um jogo top-down em pixel art focado na causa social da proteção animal. O jogador deve percorrer o mapa procurando os petiscos spawnados pelo mapa e fornecendo 2 unidades aos animais abandonados para adotá-los, enquanto enfrenta duas ameaças simbólicas:
 * **Ésúris:** O monstro que personifica a **Fome**.
 * **Zangas:** O monstro que personifica o **Abandono**.
 
@@ -56,10 +56,10 @@ Os monstros perseguem e capturam os pets. O jogador precisa combater essas amea�
 
 ---
 
-## 👥 Equipe Desenvolvedora
-* **Félix Vinícius Liandro de Freitas** (Líder de Projeto)
+## Equipe Desenvolvedora
+* **Felix Vinícius Liandro de Freitas** (Líder de Projeto)
 * **Emanuela da Conceição Barbosa** (Vice-líder / Designer de Interface)
-* **Marco Miguel Coutinho** (Desenvolvedor Full-Stack)
+* **Marcos Miguel Coutinho** (Desenvolvedor Full-Stack)
 
 ---
 _Nota: O relatório de evolução acadêmica completo com a análise aprofundada dos prints e o detalhamento técnico estendido foi submetido em formato PDF no portal acadêmico da instituição UniBALSAS._
