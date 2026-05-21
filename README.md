@@ -26,7 +26,6 @@ Os monstros perseguem e capturam os pets. O jogador precisa combater essas amea�
 ### 2. Sonorização Adaptativa
 * **Audio-Managers Persistentes:** Dividido em `AudioManager.cs` e `MusicManager.cs` usando o padrão Singleton e `DontDestroyOnLoad`.
 * **Áudio 2D Puro:** Componentes injetados dinamicamente via script com parâmetro *Spatial Blend* fixado em `0`.
-* **Trilha Sonora Adaptativa:** Coroutine que avalia o estado de combate a cada 0.5s e executa um *crossfade* suave utilizando `Mathf.Lerp` em um intervalo de 1.2s entre a música ambiente e de combate.
 * **Efeitos Estocásticos:** Utilização de `PlayOneShot()` para sobreposição harmônica de sons de combate e passos.
 
 ### 3. Refatoração e Evolução do Código
@@ -49,7 +48,7 @@ Os monstros perseguem e capturam os pets. O jogador precisa combater essas amea�
 1. Baixe e instale o **Unity Hub** e a versão correspondente da engine (**Unity 6**).
 2. Clone este repositório em sua máquina:
    ```bash
-   git clone [https://github.com/vncslian/amigodepatas.git](https://github.com/vncslian/amigodepatas.git)
+   git clone https://github.com/vncslian/amigodepatas.git
 
 3. Abra o Unity Hub, clique em **Add > Add project from disk** e selecione a pasta clonada.
 4. Abra o projeto e certifique-se de iniciar pela cena **StartScene** localizada em `Assets/Scenes/` para garantir o fluxo correto do jogo.
