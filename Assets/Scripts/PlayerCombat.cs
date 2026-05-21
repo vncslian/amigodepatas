@@ -133,7 +133,7 @@ public class PlayerCombat : MonoBehaviour
             playerScript.entity.dead = false;
         }
 
-        // teleporta para o ponto de respawn
+
         if (respawnPoint != null)
             transform.position = respawnPoint.position;
 
