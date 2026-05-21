@@ -7,7 +7,7 @@ public class Petisco : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        // Verifica se quem passou por cima foi o Player
+
         if (other.CompareTag("Player"))
         {
             AudioManager.Instance?.TocarUI(); 
