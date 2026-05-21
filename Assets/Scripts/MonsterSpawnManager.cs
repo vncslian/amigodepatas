@@ -21,7 +21,6 @@ public class MonsterSpawnManager : MonoBehaviour
     public int maxMonstersTotal = 10;
     public float spawnInterval = 5f;    
 
-    // controle interno
     List<GameObject> activeMonsters = new List<GameObject>();
     float spawnTimer = 0f;
 
