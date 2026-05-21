@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: e4a07d07983f0204b8f099d058b2af74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8693822260015899915
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_0
+  - first:
+      213: -7002754507067603937
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_1
+  - first:
+      213: 6168773279640406204
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_2
+  - first:
+      213: 5408336127984701639
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_3
+  - first:
+      213: -7677996140620841793
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_4
+  - first:
+      213: 8155056591272469581
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_5
+  - first:
+      213: 7484537423468374717
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_6
+  - first:
+      213: -3643111236960795779
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_7
+  - first:
+      213: 4098135364677012170
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_8
+  - first:
+      213: -1332523201596887851
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_9
+  - first:
+      213: -9109833379523331318
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_10
+  - first:
+      213: 438093145341320625
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_11
+  - first:
+      213: -8658624295282320702
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_12
+  - first:
+      213: 680648385683694770
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_13
+  - first:
+      213: -5866778844044572135
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_14
+  - first:
+      213: 6798984606598517816
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_15
+  - first:
+      213: -4827236338904159371
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_16
+  - first:
+      213: 6108534517237149378
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_17
+  - first:
+      213: -5125816569508737335
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_18
+  - first:
+      213: -8199222910444376940
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_19
+  - first:
+      213: -1366920199998703394
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_20
+  - first:
+      213: -747411570173993447
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_21
+  - first:
+      213: 3252887746448978349
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_22
+  - first:
+      213: -612832258091851001
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_23
+  - first:
+      213: 4554988197374559991
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_24
+  - first:
+      213: -1411445913564460773
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_25
+  - first:
+      213: -3562660483730409188
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_26
+  - first:
+      213: -5557763077455343862
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_27
+  - first:
+      213: 8140931592541372054
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_28
+  - first:
+      213: 4180070184340579086
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_29
+  - first:
+      213: -969376867507364415
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_30
+  - first:
+      213: -5183636691942805547
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_31
+  - first:
+      213: -1812310259155919415
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_32
+  - first:
+      213: 7371829588592376291
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_33
+  - first:
+      213: 6933469725107466080
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_34
+  - first:
+      213: -4070048389749236360
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_35
+  - first:
+      213: -8000447130380558485
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_36
+  - first:
+      213: -1450172407428864482
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_37
+  - first:
+      213: 305853135542284602
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_38
+  - first:
+      213: -969550612742042436
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_39
+  - first:
+      213: -5016548553876633232
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_40
+  - first:
+      213: 1161786923615132299
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_41
+  - first:
+      213: -6199021864145815205
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_42
+  - first:
+      213: 7208123550560633798
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_43
+  - first:
+      213: -2774768286641270049
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_44
+  - first:
+      213: -8706047585624702973
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_45
+  - first:
+      213: 3676071199736698380
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_46
+  - first:
+      213: 7260889522554813814
+    second: Brown_MINIVAN_CLEAN_All_000-sheet_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 627
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05a1ac9849a6a870800000000000000
+      internalID: 8693822260015899915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 626
+        width: 85
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1448f4c0e731de90800000000000000
+      internalID: -7002754507067603937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 623
+        width: 87
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb843e04d92eb9550800000000000000
+      internalID: 6168773279640406204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 620
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c09076cd054e0b40800000000000000
+      internalID: 5408336127984701639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 616
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc797b9037427590800000000000000
+      internalID: -7677996140620841793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 612
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44e00e23c49c2170800000000000000
+      internalID: 8155056591272469581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 610
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba23f1c12b6ed760800000000000000
+      internalID: 7484537423468374717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 509
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73c7bbc1a1117dc0800000000000000
+      internalID: -3643111236960795779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 509
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca0a0db6608fd830800000000000000
+      internalID: 4098135364677012170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 509
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dce9d9453de18de0800000000000000
+      internalID: -1332523201596887851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 509
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bf38aaece539180800000000000000
+      internalID: -9109833379523331318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 509
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd5a92056b641600800000000000000
+      internalID: 438093145341320625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 510
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca512c241366d780800000000000000
+      internalID: -8658624295282320702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 509
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4ae9db916227900800000000000000
+      internalID: 680648385683694770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 409
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a42f099b3059ea0800000000000000
+      internalID: -5866778844044572135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 409
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83457a52a78da5e50800000000000000
+      internalID: 6798984606598517816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 409
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ba2c42026320db0800000000000000
+      internalID: -4827236338904159371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 410
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cee12e67cfd5c450800000000000000
+      internalID: 6108534517237149378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 410
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cece9edcf07dd8b0800000000000000
+      internalID: -5125816569508737335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 412
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ce7bc4432863e80800000000000000
+      internalID: -8199222910444376940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 414
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed875c20259b70de0800000000000000
+      internalID: -1366920199998703394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 317
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e13ca0329a0a5f0800000000000000
+      internalID: -747411570173993447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 320
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1ff4dbb24942d20800000000000000
+      internalID: 3252887746448978349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 323
+        width: 87
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703e885ee48ce77f0800000000000000
+      internalID: -612832258091851001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 327
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f68b94d1a1963f30800000000000000
+      internalID: 4554988197374559991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 324
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1940567b69896ce0800000000000000
+      internalID: -1411445913564460773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 321
+        width: 88
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c197de37a23ee8ec0800000000000000
+      internalID: -3562660483730409188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 319
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f0e766debded2b0800000000000000
+      internalID: -5557763077455343862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 217
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69efe22a6266af070800000000000000
+      internalID: 8140931592541372054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 215
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0362d98fa7920a30800000000000000
+      internalID: 4180070184340579086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 214
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd1ebeffd41c82f0800000000000000
+      internalID: -969376867507364415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 214
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df611c84e50018b0800000000000000
+      internalID: -5183636691942805547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 214
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd173cdb6169d6e0800000000000000
+      internalID: -1812310259155919415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 214
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e933c404fffd4660800000000000000
+      internalID: 7371829588592376291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 214
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fa4f9daf1a83060800000000000000
+      internalID: 6933469725107466080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 115
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d9856bd884487c0800000000000000
+      internalID: -4070048389749236360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 115
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f9f5d19b3b8f090800000000000000
+      internalID: -8000447130380558485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 115
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e162128f0e3ffdbe0800000000000000
+      internalID: -1450172407428864482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 114
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31ff696ecb9e3400800000000000000
+      internalID: 305853135542284602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 114
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc8fb7cad67b82f0800000000000000
+      internalID: -969550612742042436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 114
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0790fa74ba3a16ab0800000000000000
+      internalID: -5016548553876633232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 114
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a16c63d0f7f1010800000000000000
+      internalID: 1161786923615132299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 14
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5975b85576a8f9a0800000000000000
+      internalID: -6199021864145815205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c34b40dd26680460800000000000000
+      internalID: 7208123550560633798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 19
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd25ab4d1fa0e79d0800000000000000
+      internalID: -2774768286641270049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 21
+        width: 88
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3004135f8d7ed2780800000000000000
+      internalID: -8706047585624702973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 24
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06995d8747040330800000000000000
+      internalID: 3676071199736698380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MINIVAN_CLEAN_All_000-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 26
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d3c390d8cd3c460800000000000000
+      internalID: 7260889522554813814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Brown_MINIVAN_CLEAN_All_000-sheet_0: 8693822260015899915
+      Brown_MINIVAN_CLEAN_All_000-sheet_1: -7002754507067603937
+      Brown_MINIVAN_CLEAN_All_000-sheet_10: -9109833379523331318
+      Brown_MINIVAN_CLEAN_All_000-sheet_11: 438093145341320625
+      Brown_MINIVAN_CLEAN_All_000-sheet_12: -8658624295282320702
+      Brown_MINIVAN_CLEAN_All_000-sheet_13: 680648385683694770
+      Brown_MINIVAN_CLEAN_All_000-sheet_14: -5866778844044572135
+      Brown_MINIVAN_CLEAN_All_000-sheet_15: 6798984606598517816
+      Brown_MINIVAN_CLEAN_All_000-sheet_16: -4827236338904159371
+      Brown_MINIVAN_CLEAN_All_000-sheet_17: 6108534517237149378
+      Brown_MINIVAN_CLEAN_All_000-sheet_18: -5125816569508737335
+      Brown_MINIVAN_CLEAN_All_000-sheet_19: -8199222910444376940
+      Brown_MINIVAN_CLEAN_All_000-sheet_2: 6168773279640406204
+      Brown_MINIVAN_CLEAN_All_000-sheet_20: -1366920199998703394
+      Brown_MINIVAN_CLEAN_All_000-sheet_21: -747411570173993447
+      Brown_MINIVAN_CLEAN_All_000-sheet_22: 3252887746448978349
+      Brown_MINIVAN_CLEAN_All_000-sheet_23: -612832258091851001
+      Brown_MINIVAN_CLEAN_All_000-sheet_24: 4554988197374559991
+      Brown_MINIVAN_CLEAN_All_000-sheet_25: -1411445913564460773
+      Brown_MINIVAN_CLEAN_All_000-sheet_26: -3562660483730409188
+      Brown_MINIVAN_CLEAN_All_000-sheet_27: -5557763077455343862
+      Brown_MINIVAN_CLEAN_All_000-sheet_28: 8140931592541372054
+      Brown_MINIVAN_CLEAN_All_000-sheet_29: 4180070184340579086
+      Brown_MINIVAN_CLEAN_All_000-sheet_3: 5408336127984701639
+      Brown_MINIVAN_CLEAN_All_000-sheet_30: -969376867507364415
+      Brown_MINIVAN_CLEAN_All_000-sheet_31: -5183636691942805547
+      Brown_MINIVAN_CLEAN_All_000-sheet_32: -1812310259155919415
+      Brown_MINIVAN_CLEAN_All_000-sheet_33: 7371829588592376291
+      Brown_MINIVAN_CLEAN_All_000-sheet_34: 6933469725107466080
+      Brown_MINIVAN_CLEAN_All_000-sheet_35: -4070048389749236360
+      Brown_MINIVAN_CLEAN_All_000-sheet_36: -8000447130380558485
+      Brown_MINIVAN_CLEAN_All_000-sheet_37: -1450172407428864482
+      Brown_MINIVAN_CLEAN_All_000-sheet_38: 305853135542284602
+      Brown_MINIVAN_CLEAN_All_000-sheet_39: -969550612742042436
+      Brown_MINIVAN_CLEAN_All_000-sheet_4: -7677996140620841793
+      Brown_MINIVAN_CLEAN_All_000-sheet_40: -5016548553876633232
+      Brown_MINIVAN_CLEAN_All_000-sheet_41: 1161786923615132299
+      Brown_MINIVAN_CLEAN_All_000-sheet_42: -6199021864145815205
+      Brown_MINIVAN_CLEAN_All_000-sheet_43: 7208123550560633798
+      Brown_MINIVAN_CLEAN_All_000-sheet_44: -2774768286641270049
+      Brown_MINIVAN_CLEAN_All_000-sheet_45: -8706047585624702973
+      Brown_MINIVAN_CLEAN_All_000-sheet_46: 3676071199736698380
+      Brown_MINIVAN_CLEAN_All_000-sheet_47: 7260889522554813814
+      Brown_MINIVAN_CLEAN_All_000-sheet_5: 8155056591272469581
+      Brown_MINIVAN_CLEAN_All_000-sheet_6: 7484537423468374717
+      Brown_MINIVAN_CLEAN_All_000-sheet_7: -3643111236960795779
+      Brown_MINIVAN_CLEAN_All_000-sheet_8: 4098135364677012170
+      Brown_MINIVAN_CLEAN_All_000-sheet_9: -1332523201596887851
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

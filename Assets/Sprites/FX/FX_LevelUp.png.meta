@@ -1,0 +1,757 @@
+fileFormatVersion: 2
+guid: d69abc8ef0737e64e8fd1f8bcc214cfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4011254174792484789
+    second: FX_LevelUp_0
+  - first:
+      213: -6297859072717900559
+    second: FX_LevelUp_1
+  - first:
+      213: 508511084880294405
+    second: FX_LevelUp_2
+  - first:
+      213: 758628977111544971
+    second: FX_LevelUp_3
+  - first:
+      213: -7706049197546596843
+    second: FX_LevelUp_4
+  - first:
+      213: -6558477741478048627
+    second: FX_LevelUp_5
+  - first:
+      213: -6807649978025249299
+    second: FX_LevelUp_6
+  - first:
+      213: 6304706194376269605
+    second: FX_LevelUp_7
+  - first:
+      213: 592031981160987124
+    second: FX_LevelUp_8
+  - first:
+      213: -5451553428050215633
+    second: FX_LevelUp_9
+  - first:
+      213: -4248574456718888147
+    second: FX_LevelUp_10
+  - first:
+      213: 329237749567992060
+    second: FX_LevelUp_11
+  - first:
+      213: 7464396600206066290
+    second: FX_LevelUp_12
+  - first:
+      213: 511929714625490982
+    second: FX_LevelUp_13
+  - first:
+      213: 2354549496881338971
+    second: FX_LevelUp_14
+  - first:
+      213: 686307209612596317
+    second: FX_LevelUp_15
+  - first:
+      213: -4607953515974287693
+    second: FX_LevelUp_16
+  - first:
+      213: 6818742407463949974
+    second: FX_LevelUp_17
+  - first:
+      213: 8124553108213384510
+    second: FX_LevelUp_18
+  - first:
+      213: -6683790341691749924
+    second: FX_LevelUp_19
+  - first:
+      213: 9095833247205976396
+    second: FX_LevelUp_20
+  - first:
+      213: 3206538439828881831
+    second: FX_LevelUp_21
+  - first:
+      213: 4307087709130945028
+    second: FX_LevelUp_22
+  - first:
+      213: 1258774929758341436
+    second: FX_LevelUp_23
+  - first:
+      213: -891217456920179569
+    second: FX_LevelUp_24
+  - first:
+      213: -1538715369658699056
+    second: FX_LevelUp_25
+  - first:
+      213: -4605705725618175308
+    second: FX_LevelUp_26
+  - first:
+      213: 1002140512078806473
+    second: FX_LevelUp_27
+  - first:
+      213: 5643538488846300832
+    second: FX_LevelUp_28
+  - first:
+      213: -8477412580803775872
+    second: FX_LevelUp_29
+  - first:
+      213: -4540392020548450518
+    second: FX_LevelUp_30
+  - first:
+      213: 7360903052834738218
+    second: FX_LevelUp_31
+  - first:
+      213: -1428846253030661707
+    second: FX_LevelUp_32
+  - first:
+      213: -3197525803673224796
+    second: FX_LevelUp_33
+  - first:
+      213: 773196174845456113
+    second: FX_LevelUp_34
+  - first:
+      213: -2547626590447486938
+    second: FX_LevelUp_35
+  - first:
+      213: 5568453616957948973
+    second: FX_LevelUp_36
+  - first:
+      213: -9204426331610825336
+    second: FX_LevelUp_37
+  - first:
+      213: 2588668276679088963
+    second: FX_LevelUp_38
+  - first:
+      213: -1520937778539096388
+    second: FX_LevelUp_39
+  - first:
+      213: -5736788495069529365
+    second: FX_LevelUp_40
+  - first:
+      213: 113535447346795469
+    second: FX_LevelUp_41
+  - first:
+      213: -1761225214791613184
+    second: FX_LevelUp_42
+  - first:
+      213: -1939482231085383780
+    second: FX_LevelUp_43
+  - first:
+      213: 198204596029433557
+    second: FX_LevelUp_44
+  - first:
+      213: -2796279079541245899
+    second: FX_LevelUp_45
+  - first:
+      213: -6524438533579256704
+    second: FX_LevelUp_46
+  - first:
+      213: -6246193490932376733
+    second: FX_LevelUp_47
+  - first:
+      213: 2276710576885447946
+    second: FX_LevelUp_48
+  - first:
+      213: -717095541683439672
+    second: FX_LevelUp_49
+  - first:
+      213: -9218974783212168741
+    second: FX_LevelUp_50
+  - first:
+      213: 6866958359891685842
+    second: FX_LevelUp_51
+  - first:
+      213: -520072287127244778
+    second: FX_LevelUp_52
+  - first:
+      213: 1869551116934513724
+    second: FX_LevelUp_53
+  - first:
+      213: -5283535703079930814
+    second: FX_LevelUp_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FX_LevelUp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48f0bf94992558c0800000000000000
+      internalID: -4011254174792484789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4bd257a828998a0800000000000000
+      internalID: -6297859072717900559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50273a233289e0700800000000000000
+      internalID: 508511084880294405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b843d090901378a00800000000000000
+      internalID: 758628977111544971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5161d8e451d9e0590800000000000000
+      internalID: -7706049197546596843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c05ef0e3b9bf4a0800000000000000
+      internalID: -6558477741478048627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5fb98d96e5681a0800000000000000
+      internalID: -6807649978025249299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f900941e0de7750800000000000000
+      internalID: 6304706194376269605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f975cc33f1573800800000000000000
+      internalID: 592031981160987124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2df00f6a013854b0800000000000000
+      internalID: -5451553428050215633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23f871aa080a05c0800000000000000
+      internalID: -4248574456718888147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf036a52dffa19400800000000000000
+      internalID: 329237749567992060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2728ae9e82dd69760800000000000000
+      internalID: 7464396600206066290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6203836fc5dba1700800000000000000
+      internalID: 511929714625490982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5adfafda4a0da020800000000000000
+      internalID: 2354549496881338971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d549fbb55c0468900800000000000000
+      internalID: 686307209612596317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be17d2f0b24d00c0800000000000000
+      internalID: -4607953515974287693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696d7c3a71a01ae50800000000000000
+      internalID: 6818742407463949974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35cad5910630c070800000000000000
+      internalID: 8124553108213384510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_LevelUp_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9c642b8186e33a0800000000000000
+      internalID: -6683790341691749924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6e856814d431dd547bbcfe17e1e86e44
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":192.0,"y":192.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      FX_LevelUp_0: -4011254174792484789
+      FX_LevelUp_1: -6297859072717900559
+      FX_LevelUp_10: -4248574456718888147
+      FX_LevelUp_11: 329237749567992060
+      FX_LevelUp_12: 7464396600206066290
+      FX_LevelUp_13: 511929714625490982
+      FX_LevelUp_14: 2354549496881338971
+      FX_LevelUp_15: 686307209612596317
+      FX_LevelUp_16: -4607953515974287693
+      FX_LevelUp_17: 6818742407463949974
+      FX_LevelUp_18: 8124553108213384510
+      FX_LevelUp_19: -6683790341691749924
+      FX_LevelUp_2: 508511084880294405
+      FX_LevelUp_3: 758628977111544971
+      FX_LevelUp_4: -7706049197546596843
+      FX_LevelUp_5: -6558477741478048627
+      FX_LevelUp_6: -6807649978025249299
+      FX_LevelUp_7: 6304706194376269605
+      FX_LevelUp_8: 592031981160987124
+      FX_LevelUp_9: -5451553428050215633
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
