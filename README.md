@@ -1,26 +1,65 @@
-# Amigo de Patas: Missão Balsas
+# Amigo de Patas — Jogo Educativo 2D
 
-Projeto de jogo educativo interativo em 3D desenvolvido no motor **Unity 6**, com o objetivo pedagógico de conscientizar sobre o amparo e cuidado com os animais de rua, vinculado às ações sociais da ONG local em Balsas-MA.
+**Disciplina:** Desenvolvimento de Jogos Educativos (TED 3)  
+**Engine:** Unity 6.4 | **Linguagem:** C#  
+**Tema:** Conscientização sobre adoção responsável e combate ao abandono animal.
+
+---
+
+## Sobre o Jogo
+O **Amigo de Patas** é um jogo top-down em pixel art focado na causa social da proteção animal. O jogador deve percorrer o mapa fornecendo petiscos aos animais abandonados para adotá-los, enquanto enfrenta duas ameaças simbólicas:
+* **Ésúris:** O monstro que personifica a **Fome**.
+* **Zangas:** O monstro que personifica o **Abandono**.
+
+Os monstros perseguem e capturam os pets. O jogador precisa combater essas ameaças para libertar os animais e concluir as adoções.
 
 ---
 
-## Status da Entrega: Evolução, UI e Sonorização
-Esta etapa do projeto focou no refinamento da experiência do usuário (UX) por meio de feedbacks visuais e auditivos multissensoriais.
+## Tecnologias e Arquitetura Implementadas (TED 3)
 
-### Funcionalidades de UI Implementadas
-* **Canvas de Menus:** Telas estruturadas de Início e Pausa com transições de cena fluidas.
-* **HUD do Jogador:** Exibição em tempo real de pontuação (animais resgatados) e dados de jogo relevantes.
-* **Telas Informativas:** Seções educativas integradas para fixação da mensagem de conscientização da causa animal.
+### 1. Sistema de UI & Telas Educativas
+* **Menu de Início (`StartScene`):** Canvas em modo *Screen Space - Overlay* gerenciando o fluxo de entrada e saída.
+* **Menu de Pausa (`PauseMenu.cs`):** Ativado via tecla `ESC`. Congela as físicas do jogo com `Time.timeScale = 0` e interrompe as trilhas musicais.
+* **HUD Responsivo (`HUD.cs`):** Utiliza *Canvas Scaler* em modo *Scale With Screen Size* (Base 1920x1080) com atualização em tempo real de Sliders de atributos.
+* **Telas Educativas (`TelaEducativa.cs`):** Pop-ups com dados reais de ONGs e legislações (ex: Lei Federal 9.605/98). Controlado por travas booleanas no `GameManager.cs` para garantir exibição única por partida.
 
-### Sonorização e Feedback Multissensorial
-* Integração dos componentes `AudioSource` e `AudioListener`.
-* Adição de trilha sonora de fundo imersiva.
-* Efeitos sonoros para ações de interação, acertos (recompensa por resgate) e erros.
+### 2. Sonorização Adaptativa
+* **Audio-Managers Persistentes:** Dividido em `AudioManager.cs` e `MusicManager.cs` usando o padrão Singleton e `DontDestroyOnLoad`.
+* **Áudio 2D Puro:** Componentes injetados dinamicamente via script com parâmetro *Spatial Blend* fixado em `0`.
+* **Trilha Sonora Adaptativa:** Coroutine que avalia o estado de combate a cada 0.5s e executa um *crossfade* suave utilizando `Mathf.Lerp` em um intervalo de 1.2s entre a música ambiente e de combate.
+* **Efeitos Estocásticos:** Utilização de `PlayOneShot()` para sobreposição harmônica de sons de combate e passos.
 
-### Tecnologias e Organização
-* **Engine:** Unity 6
-* **Linguagem:** C# (Refatorado para suporte a novos estados de jogo e manutenibilidade)
-* **Curso:** Análise e Desenvolvimento de Sistemas (ADS) – UniBALSAS
+### 3. Refatoração e Evolução do Código
+* **Desacoplamento por Singletons:** Redução drástica de referências manuais no Inspector através de instâncias globais com dupla checagem no `Awake()`.
+* **Proteção de Atributos:** Inclusão de funções matemáticas como `Mathf.Max()` para sanear o cálculo de dano e impedir bugs de imortalidade ou morte instantânea.
 
 ---
-*Nota: O relatório completo com capturas de tela (prints) detalhadas e análise de UX foi submetido em formato PDF através do portal institucional.*
+
+## Estrutura do Repositório
+* `/Assets/Scripts/` — Código-fonte em C# (Singletons, controladores de IA e combate).
+* `/Assets/Animations/` — Clipes de animação e *Animator Controllers*.
+* `/Assets/Prefabs/` — Entidades configuradas (Player, Monstros e Pets).
+* `/Assets/Sounds/` — Arquivos de áudio digital (`.wav` e `.mp3`).
+* `/Assets/Scenes/` — Cenas estruturadas (`StartScene` e `SampleScene`).
+* `/.gitignore` — Arquivo de filtragem para a Unity.
+
+---
+
+## 🛠️ Como Executar o Projeto Localmente
+1. Baixe e instale o **Unity Hub** e a versão correspondente da engine (**Unity 6**).
+2. Clone este repositório em sua máquina:
+   ```bash
+   git clone [https://github.com/vncslian/amigodepatas.git](https://github.com/vncslian/amigodepatas.git)
+
+3. Abra o Unity Hub, clique em **Add > Add project from disk** e selecione a pasta clonada.
+4. Abra o projeto e certifique-se de iniciar pela cena **StartScene** localizada em `Assets/Scenes/` para garantir o fluxo correto do jogo.
+
+---
+
+## 👥 Equipe Desenvolvedora
+* **Félix Vinícius Liandro de Freitas** (Líder de Projeto)
+* **Emanuela da Conceição Barbosa** (Vice-líder / Designer de Interface)
+* **Marco Miguel Coutinho** (Desenvolvedor Full-Stack)
+
+---
+_Nota: O relatório de evolução acadêmica completo com a análise aprofundada dos prints e o detalhamento técnico estendido foi submetido em formato PDF no portal acadêmico da instituição UniBALSAS._
