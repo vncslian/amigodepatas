@@ -1,6 +1,6 @@
 # Amigo de Patas — Jogo Educativo 2D
 
-**Disciplina:** Desenvolvimento de Jogos Educativos (TED 3)  
+**Disciplina:** PROGRAMAÇÃO PARA GAMES (TED 3)  
 **Engine:** Unity 6.4 | **Linguagem:** C#  
 **Tema:** Conscientização sobre adoção responsável e combate ao abandono animal.
 
