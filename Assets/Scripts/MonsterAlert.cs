@@ -22,7 +22,6 @@ public class MonsterAlert : MonoBehaviour
             posicaoOriginalNaCena = alertIcon.transform.localPosition;
             escalaOriginal = alertIcon.transform.localScale;
             
-            // Começa escondido
             alertIcon.SetActive(false);
         }
     }
