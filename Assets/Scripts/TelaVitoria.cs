@@ -42,7 +42,7 @@ public class TelaVitoria : MonoBehaviour
     {
         yield return new WaitForSeconds(delayParaAparecer);
 
-        Time.timeScale = 0f;   // pausa o jogo
+        Time.timeScale = 0f;   
         if (painelVitoria) painelVitoria.SetActive(true);
 
         if (textoPrincipal)
